@@ -7,7 +7,7 @@ import static org.firmata4j.Pin.Mode.OUTPUT
 /**
  * Created by justin on 6/24/15.
  */
-class CjugFirmata4jDemo {
+class Blink {
 
     static IODevice device = new FirmataDevice("/dev/cu.usbmodem1411");
 
