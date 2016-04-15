@@ -1,6 +1,6 @@
 ##Firmata4j Demo
 
-A simple demo of firmata4j written in Groovy for the CJUG Maker Track meeting @ SPR on 6/25.
+A very simple demo of firmata4j written in Groovy for the CJUG Maker Track meeting @ SPR on 6/25.
 
 Sample implementations were moved to:
 
